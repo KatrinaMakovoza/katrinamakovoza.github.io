@@ -1,2 +1,2 @@
-# katrinam.github.io
- This is a portfolio website based of off my skills and experiences.
+# Portfolio
+ This is my official website that is a work in progess. It is a porfolio showcasing my work and skills.
